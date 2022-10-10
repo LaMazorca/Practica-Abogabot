@@ -1,2 +1,2 @@
-# practicaProgramaci-nFrontEnd
+# practicaProgramaciónFrontEnd
 Practica del curso Launch-X-Latam
