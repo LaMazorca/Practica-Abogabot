@@ -20,5 +20,14 @@ Se entienden la necesidad de dos perfiles para la pagina web, la del ***Administ
 ![Diagrama](https://github.com/LaMazorca/practicaProgramaci-nFrontEnd/blob/main/diagramaAbogaBot.png)
 
 ## Buyer Persona [Hubspot](https://www.hubspot.es/make-my-persona)
-![Buyer persona1](https://github.com/LaMazorca/Practica-Abogabot/blob/main/Pedro%20Abogabot_page-0001.jpg)
-![Buyer persona2](https://github.com/LaMazorca/Practica-Abogabot/blob/main/Pedro%20Abogabot_page-0002.jpg)
+![Buyer persona_1](https://github.com/LaMazorca/Practica-Abogabot/blob/main/Pedro%20Abogabot_page-0001.jpg)
+![Buyer persona_2](https://github.com/LaMazorca/Practica-Abogabot/blob/main/Pedro%20Abogabot_page-0002.jpg)
+
+## Público Objetivo [Miro](https://miro.com/es/)
+![Público Objetivo_1](https://github.com/LaMazorca/Practica-Abogabot/blob/main/Target%20Audience.jpg)
+![Público Objetivo_2](https://github.com/LaMazorca/Practica-Abogabot/blob/main/Target%20Audience(1).jpg)
+
+## Wireframe UX []()
+
+
+## Wireframe IU []()
