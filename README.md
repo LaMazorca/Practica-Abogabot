@@ -29,4 +29,4 @@ Se entienden la necesidad de dos perfiles para la pagina web, la del ***Administ
 
 ## Wireframe UX/UI [Figma](https://www.figma.com/)
 Aún en desarrollo
-![UX/UI](https://www.figma.com/file/qRDYiWhRBlRbJcN5YGHXRP/AbogaBot?node-id=0%3A1)
+![UX/UI](https://github.com/LaMazorca/Practica-Abogabot/blob/main/AbogaBot.png)
