@@ -1,5 +1,5 @@
-# Practica <spam>Abogabot</spam>
-Practica del curso Launch-X-Latam
+# Práctica <spam>Abogabot</spam>
+Práctica del curso Launch-X-Latam
 ## Descripción del caso
 Despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a través de una página web llenando un formulario, con un sistema de pago seguro y actualizaciones del caso.
 ## Requerimientos
@@ -12,7 +12,7 @@ Se entienden la necesidad de dos perfiles para la pagina web, la del ***Administ
 * *El administrador actualiza el proceso de la demanda y agrega comentarios en cada paso del proceso*
 
 ### Cliente
-* *El cliente llena el formulario para la toma de datos de la demanda*
+* *El cliente llena el formulario para la toma de datos del caso*
 * *El cliente realiza el pago de su demanda de manera segura*
 * *El cliente crea una cuenta para dar seguimiento a su demanda*
 
@@ -27,7 +27,6 @@ Se entienden la necesidad de dos perfiles para la pagina web, la del ***Administ
 ![Público Objetivo_1](https://github.com/LaMazorca/Practica-Abogabot/blob/main/Target%20Audience.jpg)
 ![Público Objetivo_2](https://github.com/LaMazorca/Practica-Abogabot/blob/main/Target%20Audience(1).jpg)
 
-## Wireframe UX []()
-
-
-## Wireframe IU []()
+## Wireframe UX/UI [Figma](https://www.figma.com/)
+Aún en desarrollo
+![UX/UI](https://www.figma.com/file/qRDYiWhRBlRbJcN5YGHXRP/AbogaBot?node-id=0%3A1)
